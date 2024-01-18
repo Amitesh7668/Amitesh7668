@@ -11,13 +11,11 @@
 
 - My Resume <a href="https://github.com/Amitesh7668/Amitesh7668/blob/main/Resume.pdf"> Here </a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amitesh7668/Data-Science-Portfolio](https://github.com/Amitesh7668/Data-Science-Portfolio)
-
-- 💬 Ask me about **ML,Data Preprocessing**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Amitesh7668/Data-Science-Portfolio"> Here </a>
 
 - 📫 How to reach me **amitesh7668@gmai.com**
 
-- ⚡ Fun fact **Data Lover**
+- ⚡ Fun fact **Data is everything afterall**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
