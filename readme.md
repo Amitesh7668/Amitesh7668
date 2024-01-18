@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ML,DL,AI**
 
-- 🤝 I’m looking for help with **ML,DL,AI**
+- My Resume <a href="C:\Users\AmiteshOP\Downloads\Resume.pdf" > Here </a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amitesh7668/Data-Science-Portfolio](https://github.com/Amitesh7668/Data-Science-Portfolio)
 
